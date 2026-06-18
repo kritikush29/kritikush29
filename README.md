@@ -194,17 +194,100 @@ Things I care about, in no particular order:
 
 ---
 
-<details>
-<summary>⚙️ How to activate the snake animation (one-time setup)</summary>
+bash
 
-1. In your `kritikush29/kritikush29` repo, create `.github/workflows/snake.yml`
-2. Paste this:
+cat << 'EOF' > /home/claude/header.svg
+<svg width="900" height="280" viewBox="0 0 900 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0D0221"/>
+      <stop offset="40%" style="stop-color:#1A0533"/>
+      <stop offset="100%" style="stop-color:#0D1117"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#FF6B9D"/>
+      <stop offset="40%" style="stop-color:#A855F7"/>
+      <stop offset="100%" style="stop-color:#22D3EE"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#FF6B9D;stop-opacity:0"/>
+      <stop offset="30%" style="stop-color:#FF6B9D"/>
+      <stop offset="70%" style="stop-color:#A855F7"/>
+      <stop offset="100%" style="stop-color:#22D3EE;stop-opacity:0"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+    <filter id="softglow">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+  </defs>
 
-```yaml
+  <!-- background -->
+  <rect width="900" height="280" fill="url(#bgGrad)" rx="0"/>
 
-```
+  <!-- decorative dots grid -->
+  <g opacity="0.15">
+    <circle cx="50" cy="50" r="1.5" fill="#A855F7"/>
+    <circle cx="100" cy="50" r="1.5" fill="#A855F7"/>
+    <circle cx="150" cy="50" r="1.5" fill="#A855F7"/>
+    <circle cx="800" cy="230" r="1.5" fill="#22D3EE"/>
+    <circle cx="850" cy="230" r="1.5" fill="#22D3EE"/>
+    <circle cx="50" cy="230" r="1.5" fill="#FF6B9D"/>
+    <circle cx="820" cy="50" r="1.5" fill="#FF6B9D"/>
+    <circle cx="870" cy="70" r="1.5" fill="#FF6B9D"/>
+    <circle cx="200" cy="250" r="1.5" fill="#FBBF24"/>
+    <circle cx="700" cy="30" r="1.5" fill="#FBBF24"/>
+  </g>
 
-3. Go to **Actions tab** → click **Generate Snake** → click **Run workflow**
-4. Done. The snake will auto-update daily.
+  <!-- ambient blobs -->
+  <ellipse cx="120" cy="140" rx="80" ry="60" fill="#A855F7" opacity="0.07" filter="url(#softglow)"/>
+  <ellipse cx="780" cy="140" rx="80" ry="60" fill="#22D3EE" opacity="0.07" filter="url(#softglow)"/>
+  <ellipse cx="450" cy="80" rx="120" ry="50" fill="#FF6B9D" opacity="0.05" filter="url(#softglow)"/>
 
-</details>
+  <!-- top label -->
+  <text x="450" y="52" font-family="monospace" font-size="11" fill="#A855F7" text-anchor="middle" opacity="0.8" letter-spacing="4">✦ CREATIVE ENGINEER ✦</text>
+
+  <!-- main name -->
+  <text x="450" y="115" font-family="'Segoe UI', Arial, sans-serif" font-size="58" font-weight="900" text-anchor="middle" fill="url(#titleGrad)" filter="url(#glow)" letter-spacing="-1">Kriti Kushwaha</text>
+
+  <!-- divider line -->
+  <rect x="150" y="130" width="600" height="1.5" fill="url(#lineGrad)" rx="1"/>
+
+  <!-- subtitle -->
+  <text x="450" y="162" font-family="monospace" font-size="14" text-anchor="middle" fill="#CBD5E1" letter-spacing="2">Full Stack Dev  ·  AI/ML Explorer  ·  Visual Artist</text>
+
+  <!-- tag pills -->
+  <rect x="220" y="185" width="100" height="26" rx="13" fill="#FF6B9D" opacity="0.18"/>
+  <text x="270" y="202" font-family="monospace" font-size="11" text-anchor="middle" fill="#FF6B9D">⚡ React</text>
+
+  <rect x="333" y="185" width="100" height="26" rx="13" fill="#A855F7" opacity="0.18"/>
+  <text x="383" y="202" font-family="monospace" font-size="11" text-anchor="middle" fill="#A855F7">🧠 AI / ML</text>
+
+  <rect x="446" y="185" width="100" height="26" rx="13" fill="#22D3EE" opacity="0.18"/>
+  <text x="496" y="202" font-family="monospace" font-size="11" text-anchor="middle" fill="#22D3EE">🎨 Design</text>
+
+  <rect x="559" y="185" width="110" height="26" rx="13" fill="#FBBF24" opacity="0.18"/>
+  <text x="614" y="202" font-family="monospace" font-size="11" text-anchor="middle" fill="#FBBF24">🐍 Python</text>
+
+  <!-- bottom tagline -->
+  <text x="450" y="248" font-family="'Segoe UI', Arial, sans-serif" font-size="13" text-anchor="middle" fill="#94A3B8" font-style="italic">where code meets canvas — open to full-time roles &amp; collabs</text>
+
+  <!-- corner accents -->
+  <line x1="20" y1="20" x2="60" y2="20" stroke="#FF6B9D" stroke-width="2" opacity="0.6"/>
+  <line x1="20" y1="20" x2="20" y2="60" stroke="#FF6B9D" stroke-width="2" opacity="0.6"/>
+  <line x1="880" y1="20" x2="840" y2="20" stroke="#22D3EE" stroke-width="2" opacity="0.6"/>
+  <line x1="880" y1="20" x2="880" y2="60" stroke="#22D3EE" stroke-width="2" opacity="0.6"/>
+  <line x1="20" y1="260" x2="60" y2="260" stroke="#A855F7" stroke-width="2" opacity="0.6"/>
+  <line x1="20" y1="260" x2="20" y2="220" stroke="#A855F7" stroke-width="2" opacity="0.6"/>
+  <line x1="880" y1="260" x2="840" y2="260" stroke="#FBBF24" stroke-width="2" opacity="0.6"/>
+  <line x1="880" y1="260" x2="880" y2="220" stroke="#FBBF24" stroke-width="2" opacity="0.6"/>
+</svg>
+EOF
+echo "done"
+Output
+
+done
+
