@@ -1,19 +1,25 @@
-name: Generate Breakout Game                                 
- on:                                                          
-     schedule:                                                  
-      - cron: "0 */12 * * *"                                    
-  workflow_dispatch:                                         
-     push:                                                      
-       branches: [main, master]                                 
-   jobs:                                                        
-     build:                                                     
-       runs-on: ubuntu-latest                                   
-       steps:                                                   
-         - uses: actions/checkout@v4                            
-         - uses: AndrewDongminYoo/                             
-             github-profile-readme-breakout-game@v1.0.3        
-           with:                                                
-             username: kritikush29                              
-             repository: kritikush29/kritikush29                
-           branch: main                                       
+name: Generate Breakout Game
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main, master]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Generate Breakout Game
+        uses: AndrewDongminYoo/github-profile-readme-breakout-game@v1.0.3
+        with:
+          username: kritikush29
+          repository: kritikush29/kritikush29
+          branch: main
                                                        
