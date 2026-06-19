@@ -1,10 +1,6 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
-</p>
 
-<!-- Side GIF + Visitor Badge -->
-<!-- 🎨 Replace this GIF with something that matches your vibe -->
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="260" />
+
+
 
 [![](https://visitor-badge.laobi.icu/badge?page_id=kritikush29&left_text=👀)](https://github.com/kritikush29)
 
