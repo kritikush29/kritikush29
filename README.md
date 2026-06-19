@@ -1,293 +1,186 @@
-<div align="center">
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+</p>
 
-```
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║         where  c o d e  meets  c a n v a s              ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
+<!-- ═══════════════ GREETING TYPING SVG ═══════════════ -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&duration=3000&pause=150&color=FF6B9D&lines=Hi%2C+I%27m+Kriti+%F0%9F%91%8B;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87%2C+%E0%A4%AE%E0%A5%88%E0%A4%82+%E0%A4%95%E0%A5%83%E0%A4%A4%E0%A4%BF+%E0%A4%B9%E0%A5%82%E0%A4%81;Hello%2C+I%27m+Kriti%3B+Kriti+%E2%80%94+Frontend+Dev+who+Designs)](https://git.io/typing-svg)
 
-</div>
+<!-- Side GIF + Visitor Badge -->
+<!-- 🎨 Replace this GIF with something that matches your vibe -->
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="260" />
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=32&pause=1200&color=FF6B9D&center=true&vCenter=true&width=700&lines=I'm+Kriti+Kushwaha.;I+build+things+that+feel+alive.;Full+Stack+%2B+AI%2FML+Developer.;Designer+who+codes.+Coder+who+designs." alt="Typing SVG" />
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kriti-kushwaha-800870243)
-[![Mail](https://img.shields.io/badge/Hire_Me-kritikushwaha07@gmail.com-FF6B9D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kritikushwaha07@gmail.com)
-[![Behance](https://img.shields.io/badge/See_My_Design_Work-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/kritikushwahasp)
-
-</div>
+[![](https://visitor-badge.laobi.icu/badge?page_id=kritikush29&left_text=👀)](https://github.com/kritikush29)
 
 ---
 
-## `$ whoami`
-
-```python
-class Kriti:
-    def __init__(self):
-        self.name        = "Kriti Kushwaha"
-        self.role        = ["Full Stack Developer", "AI/ML Learner", "Visual Artist"]
-        self.languages   = ["Python", "JavaScript", "C++", "HTML/CSS"]
-        self.stack       = ["React", "Vite", "Flask", "TailwindCSS", "OpenCV"]
-        self.tools       = ["Figma", "Canva", "Sketch", "Adobe CC"]
-        self.currently   = "Deep-diving into AI/ML + sharpening DSA"
-        self.superpower  = "I make interfaces that feel, not just function"
-
-    def available_for(self):
-        return ["Full-time roles", "Freelance", "Open source collabs"]
-```
+<!-- ═══════════════ ROLE TYPING SVG ═══════════════ -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&duration=4000&pause=200&color=C084FC&center=true&width=600&lines=Frontend+Developer+%7C+UI%2FUX+Designer;Python+Explorer+%7C+ML+Curious;Building+things+that+look+good+AND+work+well;I+don%27t+fit+one+lane+%E2%80%94+that%27s+my+superpower;Open+to+Internships+%26+Freelance+%F0%9F%8C%8D)](https://git.io/typing-svg)
 
 ---
 
-## 🎨 The Work
+## 🎯 My Future Goals:
 
-> I don't just write code — I build *experiences*. Here's a snapshot:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Federant&duration=4000&pause=200&color=005DF7&center=true&repeat=false&width=500&lines=%F0%9F%92%BB+Build+scalable%2C+responsive+web+apps)](https://git.io/typing-svg)
 
-<table>
-<tr>
-<td width="50%" valign="top">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&duration=2000&pause=30&color=F7230E&multiline=true&repeat=false&height=91&lines=%F0%9F%A4%96+Develop+end-to-end+AI%2FML-powered;+web+applications)](https://git.io/typing-svg)
 
-### 🗣️ JanVaani
-**A voice for the people.**
-Full-stack civic platform built with React + Vite frontend, Python/Flask backend. Real-time data, clean UI, purpose-driven design.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Federant&duration=4000&pause=200&color=005DF7&center=true&repeat=false&width=560&lines=%F0%9F%8E%A8+Create+UIs+where+design+meets+function)](https://git.io/typing-svg)
 
-`React` `Vite` `Python` `TailwindCSS` `Flask`
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Federant&duration=4000&pause=200&color=005DF7&center=true&repeat=false&width=560&lines=%F0%9F%94%A5+Master+React+%26+modern+frontend+architecture)](https://git.io/typing-svg)
 
-[→ Explore repo](https://github.com/kritikush29/JanVaani)
-
-</td>
-<td width="50%" valign="top">
-
-### 🖼️ Kalakriti
-**Code as canvas.**
-A CSS art gallery — pure visual experiments. Where my designer brain runs free. No frameworks. Just craft.
-
-`CSS` `HTML` `Creative Coding`
-
-[→ Visit the gallery](https://github.com/kritikush29/kalakriti)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏥 Medical
-**Tech that matters.**
-Health-domain project exploring data + design for real-world impact.
-
-`Python` `Data` `Web`
-
-[→ View project](https://github.com/kritikush29/medical)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 Currently Building
-**AI/ML experiments + DSA practice**
-Working on projects that blend intelligence with interface.
-
-`scikit-learn` `NumPy` `Pandas` `OpenCV`
-
-*More coming soon...*
-
-</td>
-</tr>
-</table>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F73030&repeat=false&width=700&height=75&lines=%E2%9C%A8+Contribute+meaningfully+to+open+source)](https://git.io/typing-svg)
 
 ---
 
-## 🛠️ The Stack
+<!-- ═══════════════ WHAT I'VE BUILT ═══════════════ -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=30&pause=40&color=CBF7D9&background=FF4F1100&center=true&vCenter=true&width=440&lines=What+I%27ve+Built+So+Far!)](https://git.io/typing-svg)
 
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&duration=3000&pause=200&color=C084FC&center=true&vCenter=true&width=600&lines=%F0%9F%8E%A8+kalakriti+%E2%80%94+My+personal+CSS+art+gallery;%F0%9F%97%A3%EF%B8%8F+JanVaani+%E2%80%94+%5Badd+your+1-line+description%5D;%E2%9A%A1+asteya+%E2%80%94+%5Badd+your+1-line+description%5D)](https://git.io/typing-svg)
 
-**Frontend**
-`React` `Vite` `TailwindCSS` `HTML5` `JavaScript`
-
-**Backend & Data**
-`Python` `Flask` `MySQL` `NumPy` `Pandas` `scikit-learn` `OpenCV` `Matplotlib` `Plotly`
-
-**Systems**
-`C` `C++` `Git` `GitHub`
-
-**Design**
-`Figma` `Sketch` `Canva` `Adobe CC` `Chart.js`
-
-</div>
+<!-- 🎨 Replace with a creative/design-themed GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pIoieH4Du0iat/giphy.gif" width="380" />
+</p>
 
 ---
 
-## 📊 By The Numbers
+<!-- ═══════════════ TOOLS & SKILLS ═══════════════ -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=20&pause=38&color=C084FC&center=true&vCenter=true&repeat=false&width=200&lines=Tools+%26+Skills%3A)](https://git.io/typing-svg)
 
-<div align="center">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,js,tailwind,vite,py,flask,figma,html,css,mysql,git,github,vscode,canva" />
+  </a>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=kritikush29&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&text_color=ffffff&include_all_commits=true" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritikush29&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=ffffff" height="165"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=kritikush29&theme=radical&hide_border=true&background=0D1117&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D" width="60%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kritikush29&theme=redical&hide_border=true&bg_color=0D1117&color=FF6B9D&line=FF6B9D&point=ffffff&area=true&area_color=FF6B9D" width="95%"/>
-
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="380" />
+</p>
 
 ---
 
-## 🐍 My Contributions, Eaten Alive
+# My Profiles:
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=0.15rem&duration=4&pause=32&random=true&width=200&lines=Competitive%3A)](https://git.io/typing-svg)
+
+<!-- Replace YOUR_LEETCODE_USERNAME with your actual LeetCode handle -->
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE_USERNAME/)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=0.15rem&duration=4&pause=32&random=true&width=110&lines=Social%3A)](https://git.io/typing-svg)
+
+<!-- Replace URLs below with your actual profile links -->
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](YOUR_LINKEDIN_URL)
+&nbsp;
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](YOUR_BEHANCE_URL)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
+
+---
+
+<!-- ═══════════════ STATS DASHBOARD ═══════════════ -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kablammo&size=32&letterSpacing=0.3rem&duration=6&pause=16&color=FF6B9D&random=true&width=380&lines=Stats+Dashboard%3A)](https://git.io/typing-svg)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=kritikush29&theme=gotham)](https://git.io/streak-stats)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kritikush29&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kritikush29&layout=compact&theme=radical&card_width=240&hide_border=true" width="48%" />
+</p>
+
+## Top Repos:
+
+[![kalakriti](https://github-readme-stats.vercel.app/api/pin/?username=kritikush29&repo=kalakriti&theme=radical)](https://github.com/kritikush29/kalakriti)
+[![JanVaani](https://github-readme-stats.vercel.app/api/pin/?username=kritikush29&repo=JanVaani&theme=radical)](https://github.com/kritikush29/JanVaani)
+
+[![asteya](https://github-readme-stats.vercel.app/api/pin/?username=kritikush29&repo=asteya&theme=radical)](https://github.com/kritikush29/asteya)
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nabla&size=40&duration=6&pause=16&width=360&height=100&lines=GitHub+Breakout+%3A)](https://git.io/typing-svg)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kritikush29/kritikush29/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kritikush29/kritikush29/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/kritikush29/kritikush29/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)"  srcset="https://github.com/kritikush29/kritikush29/raw/main/images/breakout-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/kritikush29/kritikush29/raw/main/images/breakout-light.svg" />
+  <img alt="Breakout Game" src="https://github.com/kritikush29/kritikush29/raw/main/images/breakout-light.svg" />
 </picture>
 
-> ⚠️ *To activate the snake: go to Actions tab in your profile repo → run the "Generate Snake" workflow. See setup instructions below.*
+---
+
+<!-- ═══════════════ SNAKE ANIMATION ═══════════════ -->
+<!--
+  ┌─ SETUP: SNAKE ANIMATION ────────────────────────────────────┐
+  │ 1. Create: .github/workflows/snake.yml                       │
+  │                                                              │
+  │ name: Generate Snake                                         │
+  │ on:                                                          │
+  │   schedule:                                                  │
+  │     - cron: "0 0 * * *"                                     │
+  │   workflow_dispatch:                                         │
+  │ jobs:                                                        │
+  │   generate:                                                  │
+  │     runs-on: ubuntu-latest                                   │
+  │     steps:                                                   │
+  │       - uses: Platane/snk@v3                                 │
+  │         with:                                                │
+  │           github_user_name: kritikush29                      │
+  │           outputs: |                                         │
+  │             dist/github-snake.svg                            │
+  │             dist/github-snake-dark.svg?palette=github-dark   │
+  │       - uses: crazy-max/ghaction-github-pages@v3.1.0        │
+  │         with:                                                │
+  │           target_branch: output                              │
+  │           build_dir: dist                                    │
+  │         env:                                                 │
+  │           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}          │
+  │                                                              │
+  │ 2. Settings → Pages → Source = 'output' branch              │
+  │ 3. Trigger manually from Actions tab once to generate        │
+  └──────────────────────────────────────────────────────────────┘
+-->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Honk&size=40&duration=2&pause=10&height=100&lines=Snake+Contribution+%3A)](https://git.io/typing-svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/kritikush29/kritikush29/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kritikush29/kritikush29/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/kritikush29/kritikush29/output/github-snake.svg" />
+</picture>
 
 ---
 
-## 🎭 Beyond The Terminal
+<!-- ═══════════════ TROPHY RACK ═══════════════ -->
+## Trophy Rack:
 
-```
-Things I care about, in no particular order:
-
-  ◈  Making UIs that feel handcrafted, not generated
-  ◈  Art that couldn't exist without code
-  ◈  Films that make you rethink a Tuesday
-  ◈  The intersection of empathy and engineering
-  ◈  Building for people who usually get forgotten
-```
+[![Trophies](https://github-profile-trophy.vercel.app/?username=kritikush29&theme=radical&row=1&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-## 📡 Find Me
-
-<div align="center">
-
-| Platform | Link |
-|----------|------|
-| 💼 LinkedIn | [kriti-kushwaha-800870243](https://linkedin.com/in/kriti-kushwaha-800870243) |
-| 🎨 Behance | [kritikushwahasp](https://behance.net/kritikushwahasp) |
-| 📸 Instagram | [@kala_krittii](https://instagram.com/kala_krittii) |
-| 📌 Pinterest | [kritixx](https://pinterest.com/kritixx) |
-| 📧 Email | [kritikushwaha07@gmail.com](mailto:kritikushwaha07@gmail.com) |
-
-</div>
+<!-- ═══════════════ ACTIVITY GRAPH ═══════════════ -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kritikush29&bg_color=0d1117&color=ff6bd6&line=c084fc&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-<div align="center">
+<!-- ═══════════════ PROFILE SUMMARY CARDS ═══════════════ -->
+[![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kritikush29&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<img src="https://komarev.com/ghpvc/?username=kritikush29&style=for-the-badge&color=FF6B9D&label=PROFILE+VIEWS" />
-
-*"I write code the way I paint — with intention."*
-
-**Open to full-time roles, internships & collabs. Let's make something real.**
-
-</div>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kritikush29&theme=radical" width="32%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kritikush29&theme=radical" width="32%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kritikush29&theme=radical&utcOffset=5.5" width="32%" />
+</p>
 
 ---
 
-bash
 
-cat << 'EOF' > /home/claude/header.svg
-<svg width="900" height="280" viewBox="0 0 900 280" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0D0221"/>
-      <stop offset="40%" style="stop-color:#1A0533"/>
-      <stop offset="100%" style="stop-color:#0D1117"/>
-    </linearGradient>
-    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#FF6B9D"/>
-      <stop offset="40%" style="stop-color:#A855F7"/>
-      <stop offset="100%" style="stop-color:#22D3EE"/>
-    </linearGradient>
-    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#FF6B9D;stop-opacity:0"/>
-      <stop offset="30%" style="stop-color:#FF6B9D"/>
-      <stop offset="70%" style="stop-color:#A855F7"/>
-      <stop offset="100%" style="stop-color:#22D3EE;stop-opacity:0"/>
-    </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="blur"/>
-      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
-    </filter>
-    <filter id="softglow">
-      <feGaussianBlur stdDeviation="8" result="blur"/>
-      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
-    </filter>
-  </defs>
 
-  <!-- background -->
-  <rect width="900" height="280" fill="url(#bgGrad)" rx="0"/>
 
-  <!-- decorative dots grid -->
-  <g opacity="0.15">
-    <circle cx="50" cy="50" r="1.5" fill="#A855F7"/>
-    <circle cx="100" cy="50" r="1.5" fill="#A855F7"/>
-    <circle cx="150" cy="50" r="1.5" fill="#A855F7"/>
-    <circle cx="800" cy="230" r="1.5" fill="#22D3EE"/>
-    <circle cx="850" cy="230" r="1.5" fill="#22D3EE"/>
-    <circle cx="50" cy="230" r="1.5" fill="#FF6B9D"/>
-    <circle cx="820" cy="50" r="1.5" fill="#FF6B9D"/>
-    <circle cx="870" cy="70" r="1.5" fill="#FF6B9D"/>
-    <circle cx="200" cy="250" r="1.5" fill="#FBBF24"/>
-    <circle cx="700" cy="30" r="1.5" fill="#FBBF24"/>
-  </g>
+---
 
-  <!-- ambient blobs -->
-  <ellipse cx="120" cy="140" rx="80" ry="60" fill="#A855F7" opacity="0.07" filter="url(#softglow)"/>
-  <ellipse cx="780" cy="140" rx="80" ry="60" fill="#22D3EE" opacity="0.07" filter="url(#softglow)"/>
-  <ellipse cx="450" cy="80" rx="120" ry="50" fill="#FF6B9D" opacity="0.05" filter="url(#softglow)"/>
+<!-- ═══════════════ QUOTE ═══════════════ -->
+[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code+the+logic.+Design+the+feeling.)](https://github.com/piyushsuthar/github-readme-quotes)
 
-  <!-- top label -->
-  <text x="450" y="52" font-family="monospace" font-size="11" fill="#A855F7" text-anchor="middle" opacity="0.8" letter-spacing="4">✦ CREATIVE ENGINEER ✦</text>
+<!-- 🎨 Replace this with your favourite aesthetic bottom GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />
+</p>
 
-  <!-- main name -->
-  <text x="450" y="115" font-family="'Segoe UI', Arial, sans-serif" font-size="58" font-weight="900" text-anchor="middle" fill="url(#titleGrad)" filter="url(#glow)" letter-spacing="-1">Kriti Kushwaha</text>
-
-  <!-- divider line -->
-  <rect x="150" y="130" width="600" height="1.5" fill="url(#lineGrad)" rx="1"/>
-
-  <!-- subtitle -->
-  <text x="450" y="162" font-family="monospace" font-size="14" text-anchor="middle" fill="#CBD5E1" letter-spacing="2">Full Stack Dev  ·  AI/ML Explorer  ·  Visual Artist</text>
-
-  <!-- tag pills -->
-  <rect x="220" y="185" width="100" height="26" rx="13" fill="#FF6B9D" opacity="0.18"/>
-  <text x="270" y="202" font-family="monospace" font-size="11" text-anchor="middle" fill="#FF6B9D">⚡ React</text>
-
-  <rect x="333" y="185" width="100" height="26" rx="13" fill="#A855F7" opacity="0.18"/>
-  <text x="383" y="202" font-family="monospace" font-size="11" text-anchor="middle" fill="#A855F7">🧠 AI / ML</text>
-
-  <rect x="446" y="185" width="100" height="26" rx="13" fill="#22D3EE" opacity="0.18"/>
-  <text x="496" y="202" font-family="monospace" font-size="11" text-anchor="middle" fill="#22D3EE">🎨 Design</text>
-
-  <rect x="559" y="185" width="110" height="26" rx="13" fill="#FBBF24" opacity="0.18"/>
-  <text x="614" y="202" font-family="monospace" font-size="11" text-anchor="middle" fill="#FBBF24">🐍 Python</text>
-
-  <!-- bottom tagline -->
-  <text x="450" y="248" font-family="'Segoe UI', Arial, sans-serif" font-size="13" text-anchor="middle" fill="#94A3B8" font-style="italic">where code meets canvas — open to full-time roles &amp; collabs</text>
-
-  <!-- corner accents -->
-  <line x1="20" y1="20" x2="60" y2="20" stroke="#FF6B9D" stroke-width="2" opacity="0.6"/>
-  <line x1="20" y1="20" x2="20" y2="60" stroke="#FF6B9D" stroke-width="2" opacity="0.6"/>
-  <line x1="880" y1="20" x2="840" y2="20" stroke="#22D3EE" stroke-width="2" opacity="0.6"/>
-  <line x1="880" y1="20" x2="880" y2="60" stroke="#22D3EE" stroke-width="2" opacity="0.6"/>
-  <line x1="20" y1="260" x2="60" y2="260" stroke="#A855F7" stroke-width="2" opacity="0.6"/>
-  <line x1="20" y1="260" x2="20" y2="220" stroke="#A855F7" stroke-width="2" opacity="0.6"/>
-  <line x1="880" y1="260" x2="840" y2="260" stroke="#FBBF24" stroke-width="2" opacity="0.6"/>
-  <line x1="880" y1="260" x2="880" y2="220" stroke="#FBBF24" stroke-width="2" opacity="0.6"/>
-</svg>
-EOF
-echo "done"
-Output
-
-done
 
