@@ -2,9 +2,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 </p>
 
-<!-- ═══════════════ GREETING TYPING SVG ═══════════════ -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&duration=3000&pause=150&color=FF6B9D&lines=Hi%2C+I%27m+Kriti+%F0%9F%91%8B;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87%2C+%E0%A4%AE%E0%A5%88%E0%A4%82+%E0%A4%95%E0%A5%83%E0%A4%A4%E0%A4%BF+%E0%A4%B9%E0%A5%82%E0%A4%81;Hello%2C+I%27m+Kriti%3B+Kriti+%E2%80%94+Frontend+Dev+who+Designs)](https://git.io/typing-svg)
-
 <!-- Side GIF + Visitor Badge -->
 <!-- 🎨 Replace this GIF with something that matches your vibe -->
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="260" />
