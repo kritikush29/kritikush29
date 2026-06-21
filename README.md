@@ -5,9 +5,7 @@
 [![](https://visitor-badge.laobi.icu/badge?page_id=kritikush29&left_text=👀)](https://github.com/kritikush29)
 
 ---
-<p align="center">
-  <img src="./team.gif" alt="Animated Eyes" width="300" />
-</p>
+
 <!-- ═══════════════ ROLE TYPING SVG ═══════════════ -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&duration=4000&pause=200&color=C084FC&center=true&width=600&lines=Frontend+Developer+%7C+UI%2FUX+Designer;Python+Explorer+%7C+ML+Curious;Building+things+that+look+good+AND+work+well;I+don%27t+fit+one+lane+%E2%80%94+that%27s+my+superpower;Open+to+Internships+%26+Freelance+%F0%9F%8C%8D)](https://git.io/typing-svg)
 
