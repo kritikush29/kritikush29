@@ -22,7 +22,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Federant&duration=4000&pause=200&color=005DF7&center=true&repeat=false&width=560&lines=%F0%9F%94%A5+Master+React+%26+modern+frontend+architecture)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F73030&repeat=false&width=700&height=75&lines=%E2%9C%A8+Contribute+meaningfully+to+open+source)](https://git.io/typing-svg)
-
+_____
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Great+Vibes&duration=4000&pause=200&color=FF6B9D&center=true&repeat=false&width=500&lines=Kriti+Kushwaha)
 ---
 
 <!-- ═══════════════ WHAT I'VE BUILT ═══════════════ -->
