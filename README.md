@@ -13,18 +13,12 @@
 
 ## 🎯 My Future Goals:
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Federant&duration=4000&pause=200&color=005DF7&center=true&repeat=false&width=500&lines=%F0%9F%92%BB+Build+scalable%2C+responsive+web+apps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Momo+Signature&duration=4000&pause=200&color=005DF7&center=true&repeat=false&width=500&lines=%F0%9F%92%BB+Build+scalable%2C+responsive+web+apps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Momo+Signature&weight=400&duration=2000&pause=30&color=F7230E&multiline=true&repeat=false&height=91&lines=%F0%9F%A4%96+Develop+end-to-end+AI%2FML-powered;+web+applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Momo+Signature&duration=4000&pause=200&color=005DF7&center=true&repeat=false&width=560&lines=%F0%9F%8E%A8+Create+UIs+where+design+meets+function)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Momo+Signature&duration=4000&pause=200&color=005DF7&center=true&repeat=false&width=560&lines=%F0%9F%94%A5+Master+React+%26+modern+frontend+architecture)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Momo+Signature&pause=1000&color=F73030&repeat=false&width=700&height=75&lines=%E2%9C%A8+Contribute+meaningfully+to+open+source)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&duration=2000&pause=30&color=F7230E&multiline=true&repeat=false&height=91&lines=%F0%9F%A4%96+Develop+end-to-end+AI%2FML-powered;+web+applications)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Federant&duration=4000&pause=200&color=005DF7&center=true&repeat=false&width=560&lines=%F0%9F%8E%A8+Create+UIs+where+design+meets+function)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Federant&duration=4000&pause=200&color=005DF7&center=true&repeat=false&width=560&lines=%F0%9F%94%A5+Master+React+%26+modern+frontend+architecture)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F73030&repeat=false&width=700&height=75&lines=%E2%9C%A8+Contribute+meaningfully+to+open+source)](https://git.io/typing-svg)
-_____
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Great+Vibes&duration=4000&pause=200&color=FF6B9D&center=true&repeat=false&width=500&lines=Kriti+Kushwaha)
----
 
 <!-- ═══════════════ WHAT I'VE BUILT ═══════════════ -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=30&pause=40&color=CBF7D9&background=FF4F1100&center=true&vCenter=true&width=440&lines=What+I%27ve+Built+So+Far!)](https://git.io/typing-svg)
