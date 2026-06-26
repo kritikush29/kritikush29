@@ -14,9 +14,13 @@
 ## 🎯 My Future Goals:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Momo+Signature&duration=4000&pause=200&color=005DF7&center=true&repeat=false&width=500&lines=%F0%9F%92%BB+Build+scalable%2C+responsive+web+apps)](https://git.io/typing-svg)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Momo+Signature&weight=400&duration=2000&pause=30&color=F7230E&multiline=true&repeat=false&height=91&lines=%F0%9F%A4%96+Develop+end-to-end+AI%2FML-powered;+web+applications)](https://git.io/typing-svg)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Momo+Signature&duration=4000&pause=200&color=005DF7&center=true&repeat=false&width=560&lines=%F0%9F%8E%A8+Create+UIs+where+design+meets+function)](https://git.io/typing-svg)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Momo+Signature&duration=4000&pause=200&color=005DF7&center=true&repeat=false&width=560&lines=%F0%9F%94%A5+Master+React+%26+modern+frontend+architecture)](https://git.io/typing-svg)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Momo+Signature&pause=1000&color=F73030&repeat=false&width=700&height=75&lines=%E2%9C%A8+Contribute+meaningfully+to+open+source)](https://git.io/typing-svg)
 
 
@@ -52,7 +56,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=0.15rem&duration=4&pause=32&random=true&width=200&lines=Competitive%3A)](https://git.io/typing-svg)
 
 <!-- Replace YOUR_LEETCODE_USERNAME with your actual LeetCode handle -->
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE_USERNAME/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/kriti_kk/)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=0.15rem&duration=4&pause=32&random=true&width=110&lines=Social%3A)](https://git.io/typing-svg)
 
@@ -74,13 +78,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kritikush29&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kritikush29&layout=compact&theme=radical&card_width=240&hide_border=true" width="48%" />
 </p>
-
-## Top Repos:
-
-[![kalakriti](https://github-readme-stats.vercel.app/api/pin/?username=kritikush29&repo=kalakriti&theme=radical)](https://github.com/kritikush29/kalakriti)
-[![JanVaani](https://github-readme-stats.vercel.app/api/pin/?username=kritikush29&repo=JanVaani&theme=radical)](https://github.com/kritikush29/JanVaani)
-
-[![asteya](https://github-readme-stats.vercel.app/api/pin/?username=kritikush29&repo=asteya&theme=radical)](https://github.com/kritikush29/asteya)
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nabla&size=40&duration=6&pause=16&width=360&height=100&lines=GitHub+Breakout+%3A)](https://git.io/typing-svg)
