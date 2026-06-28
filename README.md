@@ -1,13 +1,11 @@
 <!-- HEADER -->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=ff69b4,9b59b6,00ffcc&height=200&section=header&text=kritikush29&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=✦%20UI/UX%20Designer%20✦%20Visual%20Thinker%20✦%20Dream%20Builder%20✦&descAlignY=60&descSize=16&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=ff69b4,9b59b6,00ffcc&height=200&section=header&text=kritikush29&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=✦%20AI%2FML%20%7C%20Full-Stack%20%7C%20Hackathon%20Builder%20✦&descAlignY=60&descSize=16&animation=twinkling)
 
-<!-- PIXEL GIF -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmRleWd5czMxanZhdTJsbGRxaDJ1N25peWxmazNjMnc0OHN5aGZvMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KyGiMJokQAFLF7dvA3/giphy.gif" width="120px"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjczMGo4ZHo2ZnJhZ3Y2enJlYnBmZ2hmdnEwazkycWhkaXUxZTRrbiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/FjGEQSybauJqM/giphy.gif" width="150px"/>
 
-<!-- MARQUEE TICKER -->
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=%E2%9C%A6+WELCOME+TO+MY+PROFILE+%E2%9C%A6;%F0%9F%8E%AE+UI%2FUX+%7C+VISUAL+DESIGN+%7C+LEVEL+03;%F0%9F%8C%B8+CREATING+THOUGHTFUL+DESIGNS;%F0%9F%92%BE+PRESS+START+TO+EXPLORE!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=%E2%9C%A6+WELCOME+TO+MY+PROFILE+%E2%9C%A6;%F0%9F%8E%AE+AI%2FML+%7C+FULL-STACK+%7C+LEVEL+FINAL;%F0%9F%9A%80+15%2B+HACKATHONS+%26+COUNTING;%F0%9F%92%BE+PRESS+START+TO+EXPLORE!" alt="Typing SVG" />
 
 </div>
 
@@ -16,28 +14,21 @@
 <!-- ABOUT SECTION -->
 <div align="center">
 
-## 🎮 `PLAYER 01` — MEET THE DESIGNER
+## 🎮 `PLAYER 01` — MEET THE BUILDER
 
 </div>
 
 ```
-╔══════════════════════════════════════════════════════════╗
-║  Player   : Kriti Kushwaha                               ║
-║  Class    : UI/UX & Visual Designer                      ║
-║  XP Level : 03 🌸                                       ║
-║  Mission  : Create thoughtful, interesting &             ║
-║             user-friendly designs                        ║
-║  Status   : Ready to explore, build & win ✨             ║
-╚══════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════╗
+║  Player   : Kriti Kushwaha                                   ║
+║  Class    : B.Tech — Artificial Intelligence & ML            ║
+║  College  : United University, Prayagraj                     ║
+║  CGPA     : 7.9  ⭐                                         ║
+║  Mission  : Build full-stack apps, ship at hackathons,       ║
+║             and grow into AI/ML development                  ║
+║  Status   : Final Year — Ready to explore & win ✨           ║
+╚══════════════════════════════════════════════════════════════╝
 ```
-
-<div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHRydGNqanl2bXVtaGF3Ymx5OWtmMGY1cGd3ZXBqOWJkdnZscnhveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/du3J3cXyzhj75IOgvA/giphy.gif" width="80px"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZhZmVrdWQ1cnFuZmNmMm9kNGsyNzdnNzhxZWc4ZjRlaG12MXY1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WoWm8YzFQJg5i/giphy.gif" width="80px"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmRleWd5czMxanZhdTJsbGRxaDJ1N25peWxmazNjMnc0OHN5aGZvMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KyGiMJokQAFLF7dvA3/giphy.gif" width="80px"/>
-</div>
 
 ---
 
@@ -46,28 +37,133 @@
 
 <div align="center">
 
-### 🛠️ Design Tools
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-9B59B6?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00FFCC?style=for-the-badge&logo=cplusplus&logoColor=black)
+
+### 🌐 Web Development
+![HTML](https://img.shields.io/badge/HTML-FF69B4?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-9B59B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FF69B4?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-00FFCC?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-9B59B6?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-FF69B4?style=for-the-badge&logo=greensock&logoColor=white)
+
+### 🤖 AI / ML Libraries
+![NumPy](https://img.shields.io/badge/NumPy-FF69B4?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-9B59B6?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-00FFCC?style=for-the-badge&logo=python&logoColor=black)
+
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-FF69B4?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-9B59B6?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-00FFCC?style=for-the-badge&logo=visualstudiocode&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-FF69B4?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
-### ⚔️ Skills Unlocked
-![UI Design](https://img.shields.io/badge/UI%20Design-FF69B4?style=flat-square&logoColor=white)
-![UX Research](https://img.shields.io/badge/UX%20Research-9B59B6?style=flat-square&logoColor=white)
-![Prototyping](https://img.shields.io/badge/Prototyping-00FFCC?style=flat-square&logoColor=black)
-![Design Thinking](https://img.shields.io/badge/Design%20Thinking-FF69B4?style=flat-square&logoColor=white)
-![Usability Testing](https://img.shields.io/badge/Usability%20Testing-9B59B6?style=flat-square&logoColor=white)
-![Visual Design](https://img.shields.io/badge/Visual%20Design-00FFCC?style=flat-square&logoColor=black)
-![Graphic Design](https://img.shields.io/badge/Graphic%20Design-FF69B4?style=flat-square&logoColor=white)
-![User Empathy](https://img.shields.io/badge/User%20Empathy-9B59B6?style=flat-square&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-9B59B6?style=for-the-badge&logo=mysql&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00FFCC?style=for-the-badge&logo=canva&logoColor=black)
+![Notion](https://img.shields.io/badge/Notion-FF69B4?style=for-the-badge&logo=notion&logoColor=white)
 
 </div>
 
-<div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXZ0YWFmMDBhZXRtdDB4N3Fid3Ryb2ZhajVhN2txdnBiZTBhYjJmNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" width="250px"/>
-</div>
+---
+
+<!-- MISSIONS / PROJECTS -->
+## 🗺️ MISSIONS (PROJECTS)
+
+<br>
+
+<!-- PROJECT 1 -->
+### 🏛️ [JanVaani](https://github.com/kritikush29/JanVaani)
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║  MISSION 01 : JanVaani                                       ║
+║  Stack      : React · Vite · Tailwind CSS · JS · GSAP        ║
+║  Team       : 4 members                                      ║
+║  Status     : ✅ COMPLETE                                    ║
+║  Objective  : Civic-tech platform letting citizens file       ║
+║               complaints via text, image & voice directly    ║
+║               to local leaders for resolution.               ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+![React](https://img.shields.io/badge/React-FF69B4?style=flat-square&logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-9B59B6?style=flat-square&logo=vite&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-00FFCC?style=flat-square&logoColor=black)
+![Civic Tech](https://img.shields.io/badge/Civic%20Tech-FF69B4?style=flat-square)
+
+---
+
+<!-- PROJECT 2 -->
+### 🌾 [Krishisaathi](https://github.com/kritikush29)
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║  MISSION 02 : Krishisaathi                                   ║
+║  Stack      : HTML · CSS · JS · React · Tailwind · GSAP      ║
+║  Team       : 4 members  |  Hackathon Sprint                 ║
+║  Status     : ✅ COMPLETE                                    ║
+║  Objective  : Price-discovery platform bridging farmers      ║
+║               & local buyers — accessible in 8+ languages.   ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+![React](https://img.shields.io/badge/React-FF69B4?style=flat-square&logo=react&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-9B59B6?style=flat-square&logo=tailwindcss&logoColor=white)
+![AgriTech](https://img.shields.io/badge/AgriTech-00FFCC?style=flat-square)
+![Multilingual](https://img.shields.io/badge/8%2B%20Languages-FF69B4?style=flat-square)
+
+---
+
+<!-- PROJECT 3 -->
+### 🎨 [Kalakriti](https://github.com/kritikush29/kalakriti)
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║  MISSION 03 : Kalakriti                                      ║
+║  Type       : Art & Culture Platform                         ║
+║  Status     : ✅ COMPLETE                                    ║
+║  Objective  : Celebrating Indian art and creativity          ║
+║               through thoughtful visual design.              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+![Visual Design](https://img.shields.io/badge/Visual%20Design-FF69B4?style=flat-square)
+![Culture](https://img.shields.io/badge/Art%20%26%20Culture-9B59B6?style=flat-square)
+![Creative](https://img.shields.io/badge/Creative-00FFCC?style=flat-square&logoColor=black)
+
+---
+
+<!-- PROJECT 4 -->
+### 💼 [Why Should You Hire Me?](https://github.com/kritikush29/why-should-you-hire-me)
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║  MISSION 04 : Why Should You Hire Me?                        ║
+║  Type       : Portfolio / Self-Promo                         ║
+║  Status     : ✅ COMPLETE                                    ║
+║  Objective  : A bold, creative case for hiring me —          ║
+║               because my work speaks louder than a CV.       ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=flat-square)
+![Creative](https://img.shields.io/badge/Creative%20Design-9B59B6?style=flat-square)
+
+---
+
+<!-- ACHIEVEMENTS -->
+## 🏆 ACHIEVEMENTS UNLOCKED
+
+```
+🥇  1st Position  — SCOPE, College First-Year Technical Event
+🥉  3rd Prize     — GDG × United University AI-First Startup Pitching Event
+🏅  4th Position  — GenAI Hackathon 2025
+🌱  Best Sustainability Idea — UHACK 4.0
+📜  Social Media Marketing Certification — HubSpot Academy
+🎮  15+ Hackathons participated & shipped
+```
 
 ---
 
@@ -75,79 +171,35 @@
 ## 📋 TRAINING LOG
 
 ```
-🎓  Bachelor of Design (UX/UI)
-    Chitkara University, Punjab
-    2023 — 2027
+🎓  B.Tech — Artificial Intelligence & Machine Learning
+    United University, Prayagraj
+    2023 — 2027  |  CGPA: 7.9
 
-🌸  Specializing in creating experiences that are
-    not just beautiful, but deeply human.
+📘  Intermediate (PCM)
+    Vishnu Bhagwan Public School & College, Prayagraj
+    2022 – 2023  |  80.33%
+
+📗  High School
+    Vishnu Bhagwan Public School & College, Prayagraj
+    2020 – 2021  |  78.5%
 ```
 
 ---
 
-<!-- MISSIONS / PROJECTS -->
-## 🗺️ MISSIONS (PROJECTS)
-
-<div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczk5dTYydnJpenU2Mml5dGVzbGNhZmEwZDB5MDBwMzVhbXl0bW1peCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3ohzdIuqJoo8QdKlnW/giphy.gif" width="150px"/>
-</div>
-
-<br>
-
-<!-- PROJECT 1 -->
-### 🌸 [why-should-you-hire-me](https://github.com/kritikush29/why-should-you-hire-me)
+<!-- LEADERSHIP -->
+## 🎖️ LEADERSHIP & ACTIVITIES
 
 ```
-╔══════════════════════════════════════════════════════════╗
-║  MISSION 01 : Why Should You Hire Me?                    ║
-║  Type       : Portfolio / Self-Promo                     ║
-║  Status     : ✅ COMPLETE                                ║
-║  Objective  : A bold, creative case for hiring me —      ║
-║               because my work speaks louder than a CV.   ║
-╚══════════════════════════════════════════════════════════╝
+👑  Co-Head, Social Media Team
+    Bridge for United Student Chapter
+    Led content planning and digital outreach
+
+🎮  15+ Hackathons & Technical Events
+    Hands-on rapid prototyping & team collaboration
+    
+📚  Independent Tutor  (2021 – Present)
+    In-person tutoring for students up to class 10th
 ```
-
-![UI/UX](https://img.shields.io/badge/UI%2FUX-FF69B4?style=flat-square)
-![Portfolio](https://img.shields.io/badge/Portfolio-9B59B6?style=flat-square)
-![Creative](https://img.shields.io/badge/Creative%20Design-00FFCC?style=flat-square&logoColor=black)
-
----
-
-<!-- PROJECT 2 -->
-### 🎨 [kalakriti](https://github.com/kritikush29/kalakriti)
-
-```
-╔══════════════════════════════════════════════════════════╗
-║  MISSION 02 : Kalakriti                                  ║
-║  Type       : Art & Culture Platform                     ║
-║  Status     : ✅ COMPLETE                                ║
-║  Objective  : Celebrating Indian art and creativity      ║
-║               through thoughtful visual design.          ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-![Visual Design](https://img.shields.io/badge/Visual%20Design-FF69B4?style=flat-square)
-![Branding](https://img.shields.io/badge/Branding-9B59B6?style=flat-square)
-![Culture](https://img.shields.io/badge/Art%20%26%20Culture-00FFCC?style=flat-square&logoColor=black)
-
----
-
-<!-- PROJECT 3 -->
-### 📢 [JanVaani](https://github.com/kritikush29/JanVaani)
-
-```
-╔══════════════════════════════════════════════════════════╗
-║  MISSION 03 : JanVaani                                   ║
-║  Type       : Civic Tech / Social Impact                 ║
-║  Status     : ✅ COMPLETE                                ║
-║  Objective  : Giving people a voice — designing for      ║
-║               social good and public connection.         ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-![UX Research](https://img.shields.io/badge/UX%20Research-FF69B4?style=flat-square)
-![Social Impact](https://img.shields.io/badge/Social%20Impact-9B59B6?style=flat-square)
-![Civic Tech](https://img.shields.io/badge/Civic%20Tech-00FFCC?style=flat-square&logoColor=black)
 
 ---
 
@@ -169,13 +221,11 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGRieW9ucXhqdHgybzV5b3l1MHRzdWxsd3NlbGN0cnk5aW55cWJwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mGK1g88HZRa2FlKGbz/giphy.gif" width="150px"/>
-
 *Let's collab, chat, or just vibe ✨*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/kriti-kushwaha)
-[![Instagram](https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kala_krittii/)
-[![Email](https://img.shields.io/badge/Email-00FFCC?style=for-the-badge&logo=gmail&logoColor=black)](mailto:kritikushwaha07@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kriti-kushwaha-800870243)
+[![GitHub](https://img.shields.io/badge/GitHub-9B59B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kritikush29)
+[![Email](https://img.shields.io/badge/Email-00FFCC?style=for-the-badge&logo=gmail&logoColor=black)](mailto:Kritikushwaha07@gmail.com)
 
 </div>
 
@@ -184,10 +234,9 @@
 <!-- FOOTER -->
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDhndnBpcnM0bG91dXBpZm9laDFqazM2dHpsd2RyNWs0d2g3MDM5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ICOgUNjpvO51BS4nRS/giphy.gif" width="100px"/>
-
 **✦ Thanks for visiting! You've completed Level 01 ✦**
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=9b59b6,ff69b4,00ffcc&height=100&section=footer)
 
 </div>
+
