@@ -7,6 +7,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=%E2%9C%A6+WELCOME+TO+MY+PROFILE+%E2%9C%A6;%F0%9F%8E%AE+AI%2FML+%7C+FULL-STACK+%7C+LEVEL+FINAL;%F0%9F%9A%80+15%2B+HACKATHONS+%26+COUNTING;%F0%9F%92%BE+PRESS+START+TO+EXPLORE!" alt="Typing SVG" />
 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjczMGo4ZHo2ZnJhZ3Y2enJlYnBmZ2hmdnEwazkycWhkaXUxZTRrbiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/FjGEQSybauJqM/giphy.gif" width="150px"/>
 </div>
 
 ---
@@ -14,23 +15,7 @@
 <!-- ABOUT SECTION -->
 <div align="center">
 
-## 🎮 `PLAYER 01` — MEET THE BUILDER
 
-</div>
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║  Player   : Kriti Kushwaha                                   ║
-║  Class    : B.Tech — Artificial Intelligence & ML            ║
-║  College  : United University, Prayagraj                     ║
-║  CGPA     : 7.9  ⭐                                         ║
-║  Mission  : Build full-stack apps, ship at hackathons,       ║
-║             and grow into AI/ML development                  ║
-║  Status   : Final Year — Ready to explore & win ✨           ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
----
 
 <!-- SKILLS -->
 ## 🕹️ WEAPONS MASTERY
@@ -67,7 +52,7 @@
 </div>
 
 ---
-
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmFqajJ6aTcxMTY3Y20xbWwwaTRnNjNheXBodDZ3bm40MjR6ZGs1eiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/kGB9tcAaMTsO3Z9hSD/giphy.gif" width="300px"/>
 <!-- MISSIONS / PROJECTS -->
 ## 🗺️ MISSIONS (PROJECTS)
 
@@ -167,41 +152,9 @@
 
 ---
 
-<!-- TRAINING LOG -->
-## 📋 TRAINING LOG
 
-```
-🎓  B.Tech — Artificial Intelligence & Machine Learning
-    United University, Prayagraj
-    2023 — 2027  |  CGPA: 7.9
 
-📘  Intermediate (PCM)
-    Vishnu Bhagwan Public School & College, Prayagraj
-    2022 – 2023  |  80.33%
 
-📗  High School
-    Vishnu Bhagwan Public School & College, Prayagraj
-    2020 – 2021  |  78.5%
-```
-
----
-
-<!-- LEADERSHIP -->
-## 🎖️ LEADERSHIP & ACTIVITIES
-
-```
-👑  Co-Head, Social Media Team
-    Bridge for United Student Chapter
-    Led content planning and digital outreach
-
-🎮  15+ Hackathons & Technical Events
-    Hands-on rapid prototyping & team collaboration
-    
-📚  Independent Tutor  (2021 – Present)
-    In-person tutoring for students up to class 10th
-```
-
----
 
 <!-- STATS -->
 ## 📊 PLAYER STATS
