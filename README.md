@@ -51,10 +51,11 @@
 
 </div>
 
----
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmFqajJ6aTcxMTY3Y20xbWwwaTRnNjNheXBodDZ3bm40MjR6ZGs1eiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/kGB9tcAaMTsO3Z9hSD/giphy.gif" width="300px"/>
+<center>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmFqajJ6aTcxMTY3Y20xbWwwaTRnNjNheXBodDZ3bm40MjR6ZGs1eiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/kGB9tcAaMTsO3Z9hSD/giphy.gif" width="300px"/></center>
+
 <!-- MISSIONS / PROJECTS -->
-## 🗺️ MISSIONS (PROJECTS)
+<center>## 🗺️ MISSIONS (PROJECTS)</center>
 
 <br>
 
@@ -66,8 +67,8 @@
 ║  MISSION 01 : JanVaani                                       ║
 ║  Stack      : React · Vite · Tailwind CSS · JS · GSAP        ║
 ║  Team       : 4 members                                      ║
-║  Status     : ✅ COMPLETE                                    ║
-║  Objective  : Civic-tech platform letting citizens file       ║
+║  Status     : ✅ COMPLETE                                   ║
+║  Objective  : Civic-tech platform letting citizens file      ║
 ║               complaints via text, image & voice directly    ║
 ║               to local leaders for resolution.               ║
 ╚══════════════════════════════════════════════════════════════╝
@@ -88,7 +89,7 @@
 ║  MISSION 02 : Krishisaathi                                   ║
 ║  Stack      : HTML · CSS · JS · React · Tailwind · GSAP      ║
 ║  Team       : 4 members  |  Hackathon Sprint                 ║
-║  Status     : ✅ COMPLETE                                    ║
+║  Status     : ✅ COMPLETE                                   ║
 ║  Objective  : Price-discovery platform bridging farmers      ║
 ║               & local buyers — accessible in 8+ languages.   ║
 ╚══════════════════════════════════════════════════════════════╝
@@ -108,7 +109,7 @@
 ╔══════════════════════════════════════════════════════════════╗
 ║  MISSION 03 : Kalakriti                                      ║
 ║  Type       : Art & Culture Platform                         ║
-║  Status     : ✅ COMPLETE                                    ║
+║  Status     : ✅ COMPLETE                                   ║
 ║  Objective  : Celebrating Indian art and creativity          ║
 ║               through thoughtful visual design.              ║
 ╚══════════════════════════════════════════════════════════════╝
@@ -136,21 +137,7 @@
 ![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=flat-square)
 ![Creative](https://img.shields.io/badge/Creative%20Design-9B59B6?style=flat-square)
 
----
 
-<!-- ACHIEVEMENTS -->
-## 🏆 ACHIEVEMENTS UNLOCKED
-
-```
-🥇  1st Position  — SCOPE, College First-Year Technical Event
-🥉  3rd Prize     — GDG × United University AI-First Startup Pitching Event
-🏅  4th Position  — GenAI Hackathon 2025
-🌱  Best Sustainability Idea — UHACK 4.0
-📜  Social Media Marketing Certification — HubSpot Academy
-🎮  15+ Hackathons participated & shipped
-```
-
----
 
 
 
