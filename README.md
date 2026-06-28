@@ -3,7 +3,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ff69b4,9b59b6,00ffcc&height=200&section=header&text=Kriti%20Kushwaha&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=✦%20AI%2FML%20%7C%20Full-Stack%20%7C%20Hackathon%20Builder%20✦&descAlignY=60&descSize=16&animation=twinkling)
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjczMGo4ZHo2ZnJhZ3Y2enJlYnBmZ2hmdnEwazkycWhkaXUxZTRrbiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/FjGEQSybauJqM/giphy.gif" width="150px"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=%E2%9C%A6+WELCOME+TO+MY+PROFILE+%E2%9C%A6;%F0%9F%8E%AE+AI%2FML+%7C+FULL-STACK+%7C+LEVEL+FINAL;%F0%9F%9A%80+15%2B+HACKATHONS+%26+COUNTING;%F0%9F%92%BE+PRESS+START+TO+EXPLORE!" alt="Typing SVG" />
 
@@ -129,6 +128,8 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kritikush29&show_icons=true&theme=radical&bg_color=0d0d0d&border_color=ff69b4&icon_color=ff69b4&title_color=ff69b4&text_color=ffffff&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kritikush29&layout=compact&theme=radical&bg_color=0d0d0d&border_color=ff69b4&title_color=ff69b4&text_color=ffffff)
+
+[![Kriti's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kritikush29&bg_color=0d0d0d&color=ff69b4&line=9b59b6&point=00ffcc&area=true&hide_border=false)](https://github.com/kritikush29)
 
 </div>
 
