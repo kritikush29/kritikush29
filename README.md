@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=ff69b4,9b59b6,00ffcc&height=200&section=header&text=kritikush29&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=✦%20AI%2FML%20%7C%20Full-Stack%20%7C%20Hackathon%20Builder%20✦&descAlignY=60&descSize=16&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=ff69b4,9b59b6,00ffcc&height=200&section=header&text=kriti_kushwahantSize=60&fontColor=ffffff&fontAlignY=38&desc=✦%20AI%2FML%20%7C%20Full-Stack%20%7C%20Hackathon%20Builder%20✦&descAlignY=60&descSize=16&animation=twinkling)
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjczMGo4ZHo2ZnJhZ3Y2enJlYnBmZ2hmdnEwazkycWhkaXUxZTRrbiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/FjGEQSybauJqM/giphy.gif" width="150px"/>
 
@@ -55,11 +55,11 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmFqajJ6aTcxMTY3Y20xbWwwaTRnNjNheXBodDZ3bm40MjR6ZGs1eiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/kGB9tcAaMTsO3Z9hSD/giphy.gif" width="300px"/></center>
 
 <!-- MISSIONS / PROJECTS -->
-<center>## 🗺️ MISSIONS (PROJECTS)</center>
+<center> ## 🗺️ MISSIONS (PROJECTS)   </center>
 
 <br>
 
-<!-- PROJECT 1 -->
+
 ### 🏛️ [JanVaani](https://github.com/kritikush29/JanVaani)
 
 ```
@@ -81,28 +81,7 @@
 
 ---
 
-<!-- PROJECT 2 -->
-### 🌾 [Krishisaathi](https://github.com/kritikush29)
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║  MISSION 02 : Krishisaathi                                   ║
-║  Stack      : HTML · CSS · JS · React · Tailwind · GSAP      ║
-║  Team       : 4 members  |  Hackathon Sprint                 ║
-║  Status     : ✅ COMPLETE                                   ║
-║  Objective  : Price-discovery platform bridging farmers      ║
-║               & local buyers — accessible in 8+ languages.   ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-![React](https://img.shields.io/badge/React-FF69B4?style=flat-square&logo=react&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-9B59B6?style=flat-square&logo=tailwindcss&logoColor=white)
-![AgriTech](https://img.shields.io/badge/AgriTech-00FFCC?style=flat-square)
-![Multilingual](https://img.shields.io/badge/8%2B%20Languages-FF69B4?style=flat-square)
-
----
-
-<!-- PROJECT 3 -->
 ### 🎨 [Kalakriti](https://github.com/kritikush29/kalakriti)
 
 ```
@@ -121,7 +100,7 @@
 
 ---
 
-<!-- PROJECT 4 -->
+
 ### 💼 [Why Should You Hire Me?](https://github.com/kritikush29/why-should-you-hire-me)
 
 ```
