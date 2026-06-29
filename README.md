@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=ff69b4,9b59b6,00ffcc&height=200&section=header&text=Kriti%20Kushwaha&fontSize=55&fontColor=380666&fontAlignY=38&desc=✦%20AI%2FML%20%7C%20Full-Stack%20%7C%20Hackathon%20Builder%20✦&descAlignY=60&descSize=16&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=ff69b4,9b59b6,00ffcc&height=200&section=header&text=Kriti%20Kushwaha&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=✦%20AI%2FML%20%7C%20Full-Stack%20%7C%20Hackathon%20Builder%20✦&descAlignY=60&descSize=16&animation=twinkling)
 
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=%E2%9C%A6+WELCOME+TO+MY+PROFILE+%E2%9C%A6;%F0%9F%8E%AE+AI%2FML+%7C+FULL-STACK+%7C+LEVEL+FINAL;%F0%9F%9A%80+15%2B+HACKATHONS+%26+COUNTING;%F0%9F%92%BE+PRESS+START+TO+EXPLORE!" alt="Typing SVG" />
