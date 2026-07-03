@@ -13,7 +13,7 @@
 
 <!-- ABOUT SECTION -->
 <div align="center">
-
+### 💼 [Why Should You Hire Me?](https://github.com/kritikush29/why-should-you-hire-me)
 
 
 <!-- SKILLS -->
@@ -56,7 +56,7 @@
 
 
 
-###🗺️ MISSIONS (PROJECTS)
+### 🗺️ MISSIONS (PROJECTS)
 
 ### 🏛️ [JanVaani](https://github.com/kritikush29/JanVaani)
 
@@ -97,26 +97,6 @@
 ![Creative](https://img.shields.io/badge/Creative-00FFCC?style=flat-square&logoColor=black)
 
 ---
-
-
-### 💼 [Why Should You Hire Me?](https://github.com/kritikush29/why-should-you-hire-me)
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║  MISSION 04 : Why Should You Hire Me?                        ║
-║  Type       : Portfolio / Self-Promo                         ║
-║  Status     : ✅ COMPLETE                                    ║
-║  Objective  : A bold, creative case for hiring me —          ║
-║               because my work speaks louder than a CV.       ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=flat-square)
-![Creative](https://img.shields.io/badge/Creative%20Design-9B59B6?style=flat-square)
-
-
-
-
 
 
 
