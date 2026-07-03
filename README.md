@@ -13,7 +13,7 @@
 
 <!-- ABOUT SECTION -->
 <div align="center">
-<b> Why Should You Hire Me?- https://github.com/kritikush29/why-should-you-hire-me </b>
+<b> Why Should You Hire Me?- https://kritikush29.github.io/why-should-you-hire-me/ </b>
 
 
 <!-- SKILLS -->
