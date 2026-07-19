@@ -133,7 +133,13 @@
 <!-- FOOTER -->
 <div align="center">
 
-**✦ Thanks for visiting! You've completed Level 01 ✦**
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=kritikush29&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/kritikush29"
+  width="600"
+  height="300"
+/>
+</a>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=9b59b6,ff69b4,00ffcc&height=100&section=footer)
 
